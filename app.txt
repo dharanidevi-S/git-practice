@@ -4,3 +4,4 @@ devi
 thamotharan
 varunikar sri
 
+leraning git and devops
